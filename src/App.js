@@ -36,7 +36,7 @@ function App() {
         Adcionar
       </button>
       <button type="button" onClick={handleAllDel}>
-        Apagar tudo
+        Apagar Lista
       </button>
     </div>
   );
